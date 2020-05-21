@@ -1,0 +1,6 @@
+E:\vswork\Clients\Clients\bin\Debug\Clients.exe.config
+E:\vswork\Clients\Clients\bin\Debug\Clients.exe
+E:\vswork\Clients\Clients\bin\Debug\Clients.pdb
+E:\vswork\Clients\Clients\obj\Debug\Clients.exe
+E:\vswork\Clients\Clients\obj\Debug\Clients.pdb
+E:\vswork\Clients\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
