@@ -64,8 +64,7 @@ namespace Clients
                     Console.WriteLine("接收到来自{0}的消息为：{1}", client_socket.RemoteEndPoint, str_msg);
                 }
             }
-        }
-
+        }  
         /// <summary>
         /// 向服务器发送请求
         /// </summary>
