@@ -13,7 +13,7 @@ namespace Clients
     {
         private static byte[] result = new byte[1024];
         static void Main(string[] args)
-        {
+        {      
             #region
             ////设定服务器IP地址 
             //IPAddress ip = IPAddress.Parse("127.0.0.1");
