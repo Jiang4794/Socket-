@@ -4,3 +4,9 @@ E:\vswork\Clients\Clients\bin\Debug\Clients.pdb
 E:\vswork\Clients\Clients\obj\Debug\Clients.exe
 E:\vswork\Clients\Clients\obj\Debug\Clients.pdb
 E:\vswork\Clients\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
+C:\code\程序源码\Socket-\Clients\bin\Debug\Clients.exe.config
+C:\code\程序源码\Socket-\Clients\obj\Debug\Clients.exe
+C:\code\程序源码\Socket-\Clients\obj\Debug\Clients.pdb
+C:\code\程序源码\Socket-\Clients\bin\Debug\Clients.exe
+C:\code\程序源码\Socket-\Clients\bin\Debug\Clients.pdb
+C:\code\程序源码\Socket-\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache

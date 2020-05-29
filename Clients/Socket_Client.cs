@@ -23,14 +23,18 @@ namespace Clients
         /// 套接字
         /// </summary>
         private Socket client_socket;
+
         /// <summary>
         /// 客户端要连接的ip地址
         /// </summary>
+        /// 
         private IPAddress iPAddress;
+
         /// <summary>
         /// 客户端要连接的端口好
         /// </summary>
         private int port;
+
         /// <summary>
         /// 创建客户端连接的套接字
         /// </summary>
@@ -39,6 +43,7 @@ namespace Clients
         {
             return new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
         }
+
         /// <summary>
         /// 连接服务器
         /// </summary>
@@ -65,6 +70,7 @@ namespace Clients
                 }
             }
         }  
+
         /// <summary>
         /// 向服务器发送请求
         /// </summary>
